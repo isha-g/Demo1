@@ -1,0 +1,6 @@
+*.log
+*.orig
+readme_BACKUP_673.md
+	readme_BASE_673.md
+	readme_LOCAL_673.md
+	readme_REMOTE_673.md
